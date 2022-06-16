@@ -1,4 +1,4 @@
- Quais são válidas?
+  Quais são válidas?
 
 p = mat + 1;	
 p = mat++;	
